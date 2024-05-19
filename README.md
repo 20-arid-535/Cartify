@@ -41,5 +41,5 @@ To get started with the Weather App, follow these steps:
 If you have any questions, feel free to reach out:
 
 - Noman Masood
-- Email: your.email@example.com
+- Email: nomanmasoodarid@gmail.com
 - GitHub: 20-arid-535    
