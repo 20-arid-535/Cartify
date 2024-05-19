@@ -1,4 +1,4 @@
-# Weather App
+# Cartify
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -34,7 +34,7 @@ To get started with the Weather App, follow these steps:
 2. **Run on VS Code:**
 
 ## Screenshots
-<p><img src="splash_.jpeg" width="200" ><img src="home_.jpeg" width="200" ><img src="category_.jpeg" width="200" ><br><img src="itemdetail_.jpeg" width="200" ><img src="cart_.jpeg" width="200" ><img src="account_.jpeg" width="200" ></p>
+<p><img src="splash_.jpeg" width="200" >    <img src="home_.jpeg" width="200" >    <img src="category_.jpeg" width="200" ><br><img src="itemdetail_.jpeg" width="200" >    <img src="cart_.jpeg" width="200" >    <img src="account_.jpeg" width="200" ></p>
 
 
 ## Contact
